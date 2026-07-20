@@ -1,6 +1,8 @@
 RENCANA KONTEN EXAMPLE
 
 - Javascript
+  * E56
+  * Framework Javascript
 - PHP Framework
 - Interview
 - Vlogs
